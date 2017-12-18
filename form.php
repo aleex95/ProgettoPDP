@@ -165,7 +165,7 @@
 
 
 <!-- SEZIONE B –  PARTE I (allievi con DSA) -->
-		<div id="dsa">
+
 			<h2 class="title">SEZIONE B –  PARTE I (allievi con DSA)</h2>
 			<h3 class="title">Descrizione delle abilità e dei comportamenti</h3>
 			<!-- TABELLE LETTURA/SCRITTURA... -->
@@ -434,9 +434,7 @@
 
 			</tbody>
 			</table>		
-		</div>
 
-		<div id="bes">
 			<h2>SEZIONE B- PARTE II</h2>
 			<h3>Allievi con altri Bisogni Educativi Speciali (non DSA)</h3>
 			<h4>Descrizione delle abilità e dei comportamenti</h4>
@@ -719,7 +717,6 @@
 				<b>0</b> L’elemento descritto dal criterio non mette in evidenza particolari problematicità<br>
 				<b>9</b> L’elemento “negativo” descritto non si rileva, ma, al contrario, si evidenzia nell’allievo come comportamento positivo quale indicatore di un “punto di forza”, su cui fare leva nell’intervento (es: ultimo item - dimostra piena fiducia nelle proprie capacità). 
 			</p>
-		</div>
 
 
 <!--_______________ TABELLE DA FINIRE _____________-->
