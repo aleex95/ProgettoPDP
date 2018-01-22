@@ -10,7 +10,8 @@
 <body>
 
 <!-- INFORMAZIONI GENERALI -->
-	<img src="logo_maux.png">
+	<img src="img/logo_maux.png">
+	<img src="img/logo_piemonte.jpg">
 	<h1 class="title">Modello PDP: Piano Didattico Personalizzato</h1>
 	<h2 class="title">Istituto Paritario Maria Ausiliatrice</h2>
 	<h3 class="title">A.S. : 2017-2018</h3>
